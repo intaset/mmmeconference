@@ -209,6 +209,7 @@ mail($my_email,$subject,$message,$headers);
   </div>
 </div>
 </div>
+<br><p class="body" style="text-align:center!important;">MMME'17 is part of the <b>3<sup>rd</sup> World Congress on Mechanical, Chemical, and Material Engineering (MCM'17)</b>. For more information about the congress, please visit the website here: <a href="http://2017.mcmcongress.com/" class="body-link">www.2017.mcmcongress.com</a>.</p>
         </div>
     </div>
 
@@ -235,6 +236,7 @@ mail($my_email,$subject,$message,$headers);
   </div>
 </div>
 </div>
+<br><p class="body" style="text-align:center!important; color: #FFF!important;">MMME'17 is part of the <b>3<sup>rd</sup> World Congress on Mechanical, Chemical, and Material Engineering (MCM'17)</b>.<br>For more information about the congress, please visit the website here: <a href="http://2017.mcmcongress.com/" class="body-link">www.2017.mcmcongress.com</a>.</p>
         </div>
         </div> 
       </div>
