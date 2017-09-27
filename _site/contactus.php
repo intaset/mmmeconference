@@ -43,7 +43,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic|Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
 <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
 <!--[if IE-9]><html lang="en" class="ie9"><![endif]-->
-
+<script src='https://www.google.com/recaptcha/api.js'></script>
 <script src="../js/modernizr.custom.63321.js"></script>
 <script>
   (function() {
@@ -73,7 +73,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
     <li><a href="../sponsor">Sponsors</a></li>
     <li><a href="../venue">Venue</a></li>
     <li><a href="../accommodation">Accommodation</a></li>
-    <li><a href="../symposium">Symposiums</a></li>
+    <li><a href="../past-events">Past Events</a></li>
     <li><a href="#contact">Contact Us</a></li>
   </ul>
 </nav>
@@ -84,7 +84,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   <div class="cbp-af-inner">
     <a href="/"><img src="../img/logo.png" class="flex-logo"></a>
       <nav>
-        <a href="/">Home</a><p class="dot">&middot;</p><a href="../papers">Paper Submission</a><p class="dot">&middot;</p><a href="../program">Program</a><p class="dot">&middot;</p><a href="../dates">Important Dates</a><p class="dot">&middot;</p><a href="../registration">Registration</a><p class="dot">&middot;</p><a href="../committee">Committee</a><p class="dot">&middot;</p><a href="../keynote">Keynotes</a><p class="dot">&middot;</p><a href="../sponsor">Sponsors</a><p class="dot">&middot;</p><a href="../venue">Venue</a><p class="dot">&middot;</p><a href="../accommodation">Accommodation</a><p class="dot">&middot;</p><a href="../symposium">Symposiums</a><p class="dot">&middot;</p><a href="#contact">Contact Us</a>
+        <a href="/">Home</a><p class="dot">&middot;</p><a href="../papers">Paper Submission</a><p class="dot">&middot;</p><a href="../program">Program</a><p class="dot">&middot;</p><a href="../dates">Important Dates</a><p class="dot">&middot;</p><a href="../registration">Registration</a><p class="dot">&middot;</p><a href="../committee">Committee</a><p class="dot">&middot;</p><a href="../keynote">Keynotes</a><p class="dot">&middot;</p><a href="../sponsor">Sponsors</a><p class="dot">&middot;</p><a href="../venue">Venue</a><p class="dot">&middot;</p><a href="../accommodation">Accommodation</a><p class="dot">&middot;</p><a href="../past-events">Past Events</a><p class="dot">&middot;</p><a href="#contact">Contact Us</a>
     </nav>
   </div>
 </div>
@@ -214,13 +214,13 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 
   <br><br>
 
-    <h2>Upcoming Dates</h2>
+<h2>Upcoming Dates</h2>
 
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
      <!-- <div class="past">Dec. 1, 2016</div> -->
-     TBA
+     Feb. 9, 18
   </div>
 </div>
 
@@ -235,8 +235,8 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <!-- <div class="past">Feb. 15, 2018</div> -->
-    TBA
+    <!-- <div class="past">Feb. 15, 2017</div> -->
+    Mar. 1, 2018
   </div>
 </div>
 
@@ -251,8 +251,8 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <!-- <div class="past">Mar. 1, 2018</div> -->
-    TBA
+    <!-- <div class="past">Mar. 1, 2017</div> -->
+    Apr. 20, 2018
   </div>
 </div>
 
