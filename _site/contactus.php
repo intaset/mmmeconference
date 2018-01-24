@@ -40,8 +40,9 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link href="../css/style.css" rel="stylesheet">
-<link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic|Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
-<link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
+<!-- Google Fonts -->
+<link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700|Roboto:400,400i,700" rel="stylesheet"><link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
 <!--[if IE-9]><html lang="en" class="ie9"><![endif]-->
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <script src="../js/modernizr.custom.63321.js"></script>
@@ -64,17 +65,16 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   <h1>MMME'18</h1>
   <ul>
     <li><a href="/">Home</a></li>
-    <li><a href="../papers">Paper Submissions</a></li>
+    <li><a href="../papers">Submissions</a></li>
     <li><a href="../program">Program</a></li>
     <li><a href="../dates">Important Dates</a></li>
     <li><a href="../registration">Registration</a></li>
     <li><a href="../committee">Committee</a></li>
     <li><a href="../keynote">Keynotes</a></li>
-    <li><a href="../sponsor">Sponsors</a></li>
     <li><a href="../venue">Venue</a></li>
     <li><a href="../accommodation">Accommodation</a></li>
     <li><a href="../past-events">Past Events</a></li>
-    <li><a href="#contact">Contact Us</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ul>
 </nav>
 
@@ -84,7 +84,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   <div class="cbp-af-inner">
     <a href="/"><img src="../img/logo.png" class="flex-logo"></a>
       <nav>
-        <a href="/">Home</a><p class="dot">&middot;</p><a href="../papers">Paper Submission</a><p class="dot">&middot;</p><a href="../program">Program</a><p class="dot">&middot;</p><a href="../dates">Important Dates</a><p class="dot">&middot;</p><a href="../registration">Registration</a><p class="dot">&middot;</p><a href="../committee">Committee</a><p class="dot">&middot;</p><a href="../keynote">Keynotes</a><p class="dot">&middot;</p><a href="../sponsor">Sponsors</a><p class="dot">&middot;</p><a href="../venue">Venue</a><p class="dot">&middot;</p><a href="../accommodation">Accommodation</a><p class="dot">&middot;</p><a href="../past-events">Past Events</a><p class="dot">&middot;</p><a href="#contact">Contact Us</a>
+        <a href="/">Home</a><p class="dot">&middot;</p><a href="../papers">Submissions</a><p class="dot">&middot;</p><a href="../program">Program</a><p class="dot">&middot;</p><a href="../dates">Important Dates</a><p class="dot">&middot;</p><a href="../registration">Registration</a><p class="dot">&middot;</p><a href="../committee">Committee</a><p class="dot">&middot;</p><a href="../keynote">Keynotes</a><p class="dot">&middot;</p><a href="../venue">Venue</a><p class="dot">&middot;</p><a href="../accommodation">Accommodation</a><p class="dot">&middot;</p><a href="../past-events">Past Events</a><p class="dot">&middot;</p><a href="#contact">Contact</a>
     </nav>
   </div>
 </div>
@@ -106,7 +106,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
           <h1>5<sup>th</sup> International Conference on Mining,<br>Material, and Metallurgical Engineering (MMME'18)</h1>
           <p class="subhead">August 16 - 18, 2018 | Madrid, Spain</p>
 
-          <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
+          <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
         <div class="searchbox grid">
         <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
@@ -118,7 +118,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   </div>
 </div>
 </div>
-<br><p class="body" style="text-align:center!important;">MMME'18 is part of the <b>4<sup>th</sup> World Congress on Mechanical, Chemical, and Material Engineering (MCM'18)</b>. For more information about the congress, please visit the website here: <a href="http://2018.mcmcongress.com/" class="body-link">www.2018.mcmcongress.com</a>.</p>
+
         </div>
     </div>
 
@@ -133,7 +133,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
           <h1>5<sup>th</sup> International Conference on Mining,<br>Material, and Metallurgical Engineering (MMME'18)</h1>
           <p class="subhead">August 16 - 18, 2018 | Madrid, Spain</p>
 
-          <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
+          <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
         <div class="searchbox grid">
         <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
@@ -145,7 +145,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   </div>
 </div>
 </div>
-<br><p class="body" style="text-align:center!important; color: #FFF!important;">MMME'18 is part of the <b>4<sup>th</sup> World Congress on Mechanical, Chemical, and Material Engineering (MCM'18)</b>.<br>For more information about the congress, please visit the website here: <a href="http://2018.mcmcongress.com/" class="body-link">www.2018.mcmcongress.com</a>.</p>
+
         </div>
         </div> 
       </div>
@@ -155,41 +155,6 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   <div class="grid main-content">
   <div class="unit unit-s-1 unit-m-1-3-1 unit-l-1-3-1">
     <div class="unit-spacer">
-      <h2>Announcements</h2>
-      <div id="main-slider" class="liquid-slider">
-    <div>
-      <h2 class="title">1</h2>
-      <p class="bold">MMME 2018:</p>
-      <p class="body">MMME 2018 will  be held in Madrid, Spain on August 16 - 18, 2018.</p>
-
-      <!-- <p class="bold">MCM'18 Workshop</p>
-      <p class="body">As per popular request, the organizing committee has decided to extend the MCM'18 congress to three days (now August 16 - 18, 2018). The new high-level schedule is as follows:</p>
-
-      <ul>
-        <li>Day 1: Workshop(s) and Registration</li>
-        <li>Day 2: Main Track Conference Sessions</li>
-        <li>Day 2: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
-      </ul>
-      
-      <p class="body">Registration for the workshop will be 121 EURs (VAT included) and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
-
-      <p class="body">More information to follow; we greatly appreciate your patience!</p> -->
-<!-- 
-      <p class="bold">Poster Board Dimensions:</p>
-      <p class="body">Authors presenting via poster boards are to be informed that poster boards are 110 cm height and 80 cm width.</p> -->
-    </div>          
-    <div>
-      <h2 class="title">2</h2>
-      <p class="bold">Best Paper Award:</p>
-      <p class="body">Two best paper awards will be conferred to author(s) of the papers that receive the highest rank during the peer-review and by the respected session chairs. Please visit <a href="../papers" class="body-link">Paper Submission</a> for more information.</p>
-    </div>
-    <div>
-      <h2 class="title">3</h2>
-      <p class="bold">Become a Sponsor or an Exhibitor</p>
-      <p class="body">MMME attracts a wide range of researchers in the field of mining, material and metallurgical engineering. As a prominent company in the field of mining, material and metallurgical engineering, we would like to offer you an exhibit at MMME. Please visit <a href="../sponsor" class="body-link">Sponsors</a> for more information.</p>
-    </div>
-
-  </div>
 
     </div>
   </div>
@@ -203,66 +168,6 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 
   <div class="unit unit-s-1 unit-m-1-3-1 unit-l-1-3-1">
   <div class="unit-spacer">
-    <section class="main">
-
-  <ul class="side-bar-menu" style="padding:0px;">
-    <li><a href="../sponsor">Sponsors &amp; Exhibitors</a></li>
-    <li><a href="../symposium">Symposium &amp; Workshop</a></li>
-  </ul>
-
-  </section>
-
-  <br><br>
-
-<h2>Upcoming Dates</h2>
-
-<div class="grid events">
-<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
-  <div class="date">
-     <!-- <div class="past">Dec. 1, 2016</div> -->
-     Feb. 9, 18
-  </div>
-</div>
-
-<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
-  <div class="unit-spacer">
-     <!-- <div class="past past-text">Paper Submission Deadline</div> -->
-     Paper Submission Deadline
-  </div>
-</div>
-</div>
-
-<div class="grid events">
-<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
-  <div class="date">
-    <!-- <div class="past">Feb. 15, 2017</div> -->
-    Mar. 1, 2018
-  </div>
-</div>
-
-<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
-  <div class="unit-spacer">
-    <!-- <div class="past past-text">Notification of Authors</div> --> 
-      Notification of Authors
-  </div>
-</div>
-</div>
-
-<div class="grid events">
-<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
-  <div class="date">
-    <!-- <div class="past">Mar. 1, 2017</div> -->
-    Apr. 20, 2018
-  </div>
-</div>
-
-<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
-  <div class="unit-spacer">
-     <!-- <div class="past past-text">Final Version of Accepted Submissions Deadline</div>  -->
-     Final Version of Accepted Submissions Deadline
-  </div>
-</div>
-</div>
 
   </div>
   </div>
