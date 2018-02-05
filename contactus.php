@@ -32,7 +32,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="mining conference, material conference, mineral processing conference, metal processing conference, solidification conference, metallurgical conference, casting conference, composite materials conference, corosion, metal processing, phase diagram, surface phenomena, heat transfer, fluid flow, fluid dynamics, fluid mechanics, mining, material, mineral processing, metal processing, solidification, metallurgical, casting, composite materials, corosion conference, metal processing conference, phase diagram conference, surface phenomena conference, heat transfer conference, fluid flow conference, fluid dynamics conference, fluid mechanics conference">
-<title>MMME'18 - Contact Us</title>
+<title>MMME'19 - Contact Us</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -62,7 +62,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 
 <body>
 <nav id="slide-menu">
-  <h1>MMME'18</h1>
+  <h1>MMME'19</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Submissions</a></li>
@@ -103,8 +103,8 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   </div>
 </div>
         <div class="bg">
-          <h1>5<sup>th</sup> International Conference on Mining,<br>Material, and Metallurgical Engineering (MMME'18)</h1>
-          <p class="subhead">August 16 - 18, 2018 | Madrid, Spain</p>
+          <h1>6<sup>th</sup> International Conference on Mining,<br>Material, and Metallurgical Engineering (MMME'19)</h1>
+          <p class="subhead">August, 2019 | Prague, Czech Republic</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -130,8 +130,8 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
         </div>
 
         <div class="bg">
-          <h1>5<sup>th</sup> International Conference on Mining,<br>Material, and Metallurgical Engineering (MMME'18)</h1>
-          <p class="subhead">August 16 - 18, 2018 | Madrid, Spain</p>
+          <h1>6<sup>th</sup> International Conference on Mining,<br>Material, and Metallurgical Engineering (MMME'19)</h1>
+          <p class="subhead">August, 2019 | Prague, Czech Republic</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -162,7 +162,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <div class="unit unit-s-1 unit-m-1-4-1 unit-l-1-4-1">
   <div class="unit-spacer content">
     <p class="body">We have received your message and we will try our best to get back to you within the next 48 hours.<br><br>
-    Thank you for your interest in MMME'18.</p>
+    Thank you for your interest in MMME'19.</p>
   </div>
 </div>
 
@@ -189,7 +189,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding MMME'18, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding MMME'19, please fill out the form below:</p>
 
     <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm" class="cf">
   <div class="half left cf">

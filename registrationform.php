@@ -65,9 +65,9 @@ $headers = "From: " . $_REQUEST['email'];
 
 $your_email = $_REQUEST['email'];
 
-$your_subject = "Your Registration Details for MMME'18";
+$your_subject = "Your Registration Details for MMME'19";
 
-$your_headers = "From: MMME'18 <" . $my_email . ">";
+$your_headers = "From: MMME'19 <" . $my_email . ">";
 
 if ((($_FILES["file"]["type"] == "image/gif")
 
@@ -113,7 +113,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="mining conference, material conference, mineral processing conference, metal processing conference, solidification conference, metallurgical conference, casting conference, composite materials conference, corosion, metal processing, phase diagram, surface phenomena, heat transfer, fluid flow, fluid dynamics, fluid mechanics, mining, material, mineral processing, metal processing, solidification, metallurgical, casting, composite materials, corosion conference, metal processing conference, phase diagram conference, surface phenomena conference, heat transfer conference, fluid flow conference, fluid dynamics conference, fluid mechanics conference">
-<title>MMME'18 - Registration Form Filled!</title>
+<title>MMME'19 - Registration Form Filled!</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -144,7 +144,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
 <body>
 <nav id="slide-menu">
-  <h1>MMME'18</h1>
+  <h1>MMME'19</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Submissions</a></li>
@@ -186,8 +186,8 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
         <div class="bg">
-          <h1>5<sup>th</sup> International Conference on Mining,<br>Material, and Metallurgical Engineering (MMME'18)</h1>
-          <p class="subhead">August 16 - 18, 2018 | Madrid, Spain</p>
+          <h1>6<sup>th</sup> International Conference on Mining,<br>Material, and Metallurgical Engineering (MMME'19)</h1>
+          <p class="subhead">August, 2019 | Prague, Czech Republic</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -212,8 +212,8 @@ mail($your_email,$your_subject,$message,$your_headers);
         </div>
 
         <div class="bg">
-          <h1>5<sup>th</sup> International Conference on Mining,<br>Material, and Metallurgical Engineering (MMME'18)</h1>
-          <p class="subhead">August 16 - 18, 2018 | Madrid, Spain</p>
+          <h1>6<sup>th</sup> International Conference on Mining,<br>Material, and Metallurgical Engineering (MMME'19)</h1>
+          <p class="subhead">August, 2019 | Prague, Czech Republic</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -252,7 +252,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
     <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@mmmeconference.com" class="body-link">registration@mmmeconference.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
 
-  <p class="body">We are looking forward to seeing you at MMME'18!</p>
+  <p class="body">We are looking forward to seeing you at MMME'19!</p>
   </div>
 </div>
 
@@ -279,7 +279,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding MMME'18, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding MMME'19, please fill out the form below:</p>
 
 <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm" class="cf">
   <div class="half left cf">
