@@ -240,7 +240,12 @@ th {
   margin-top: -114px; /*same height as header*/
   visibility: hidden;
 }
-
+.announcement-text{
+	background-color: #E2E2E2;
+	padding: 10px;
+	margin-top: 0;
+	font-size: 90%;
+}
 .keynotes {
 	border-bottom: #36457A 1px solid;
 	text-align: left;
@@ -744,7 +749,8 @@ display: none;
 }
 
 .past-text {
-	color: #36457A;
+	color: #999;
+	text-decoration: line-through;
 }
 
 .events {
