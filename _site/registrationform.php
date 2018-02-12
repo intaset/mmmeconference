@@ -41,7 +41,7 @@ $message = build_message($_REQUEST);
 
 $message = 'Dear Colleague,
 
-Thank you for registering for MMME 2018. If you have requested any official letters, please allow up to 5 business days to receive your documents.
+Thank you for registering for MMME 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
 If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@mmmeconference.com. You can find the copyright form here: www.mmmeconference.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
@@ -167,7 +167,7 @@ mail($your_email,$your_subject,$message,$your_headers);
     <a href="/"><img src="../img/logo.png" class="flex-logo"></a>
       <nav>
         <a href="/">Home</a><p class="dot">&middot;</p><a href="../papers">
-    <li><a href="../sponsor">Sponsors</a></li></a><p class="dot">&middot;</p><a href="../program">Program</a><p class="dot">&middot;</p><a href="../dates">Important Dates</a><p class="dot">&middot;</p><a href="../registration">Registration</a><p class="dot">&middot;</p><a href="../committee">Committee</a><p class="dot">&middot;</p><a href="../keynote">Keynotes</a><p class="dot">&middot;</p><a href="../venue">Venue</a><p class="dot">&middot;</p><a href="../accommodation">Accommodation</a><p class="dot">&middot;</p><a href="../past-events">Past Events</a><p class="dot">&middot;</p><a href="#contact">Contact</a>
+    <li><a href="../sponsor">Sponsors</li></a></a><p class="dot">&middot;</p><a href="../program">Program</a><p class="dot">&middot;</p><a href="../dates">Important Dates</a><p class="dot">&middot;</p><a href="../registration">Registration</a><p class="dot">&middot;</p><a href="../committee">Committee</a><p class="dot">&middot;</p><a href="../keynote">Keynotes</a><p class="dot">&middot;</p><a href="../venue">Venue</a><p class="dot">&middot;</p><a href="../accommodation">Accommodation</a><p class="dot">&middot;</p><a href="../past-events">Past Events</a><p class="dot">&middot;</p><a href="#contact">Contact</a>
     </nav>
   </div>
 </div>
