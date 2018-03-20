@@ -187,7 +187,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
         <div class="bg">
           <h1>6<sup>th</sup> International Conference on Mining,<br>Material, and Metallurgical Engineering (MMME'19)</h1>
-          <p class="subhead">August, 2019 | Prague, Czech Republic</p>
+          <p class="subhead">August 15 - 17, 2019 | Prague, Czech Republic</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -213,7 +213,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
         <div class="bg">
           <h1>6<sup>th</sup> International Conference on Mining,<br>Material, and Metallurgical Engineering (MMME'19)</h1>
-          <p class="subhead">August, 2019 | Prague, Czech Republic</p>
+          <p class="subhead">August 15 - 17, 2019 | Prague, Czech Republic</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
